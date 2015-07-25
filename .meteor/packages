@@ -5,8 +5,12 @@
 # but you can also edit it by hand.
 
 meteor-platform
-insecure
 less
 jeeeyul:moment-with-langs
 markdown
 iron:router
+reactive-var
+multiply:iron-router-progress
+accounts-ui
+accounts-password
+wizonesolutions:underscore-string
